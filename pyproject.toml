@@ -6,7 +6,7 @@ name = "ova1dei6r5u67vbwazwbq1o2y"
 dynamic = ["version"]
 
 requires-python = ">= 3.14"
-dependencies = []
+dependencies = ["structlog>=26.1.0,<27"]
 
 authors = [{name = "Jevan Goh", email = "javerngoh@gmail.com"}]
 
